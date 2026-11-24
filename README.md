@@ -1,4 +1,4 @@
-# 🎮 Game Laknad (Flappy Bird Mobile Edition)
+# 🎮 Game (Flappy Bird Mobile Edition)
 
 Versi game **Flappy Bird modifikasi ringan** yang dibuat khusus untuk perangkat **Android (mobile)** menggunakan Python dan library **Pygame**, dikembangkan dan dimodifikasi langsung oleh **Mochamad Iqbal** sebagai latihan eksplorasi mandiri dalam pemrograman game.
 
